@@ -20,5 +20,5 @@ I am a 💻 passionate developer with experience in several areas such as web de
 For detailed information about each project, including setup instructions, features, and screenshots, please visit their respective repository pages.
 
 ## 🗣️ Contact Me
-If you have any questions or would like to collaborate on a project, feel free to reach out to me via email (admin@zach.co.in). Let's build something amazing together! 🚀
+If you have any questions or would like to collaborate on a project, feel free to reach out to me via email (admin@z4ch.icu). Let's build something amazing together! 🚀
 
