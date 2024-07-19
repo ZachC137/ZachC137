@@ -21,4 +21,4 @@ For detailed information about each project, including setup instructions, featu
 
 ## 🗣️ Contact Me
 If you have any questions or would like to collaborate on a project, feel free to reach out to me via email (admin@zach.co.in). Let's build something amazing together! 🚀
-![image](http://207.111.165.53:8090/cgi-bin/snapshot.cgi)
+[![](http://207.111.165.53:8090/cgi-bin/snapshot.cgi)
